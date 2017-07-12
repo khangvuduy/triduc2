@@ -3,6 +3,7 @@ DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
 theme = "beautifulhugo"
+publishDir = "docs"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
